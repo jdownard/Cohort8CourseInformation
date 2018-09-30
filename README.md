@@ -1,8 +1,6 @@
 # Cohort 8 Course Information #
 
-
-
-##Class Name:	Microsoft .NET Web Development Fundamentals ##
+## Class Name:	Microsoft .NET Web Development Fundamentals ##
 ## Class Days & Times:  ##  
 Monday through Thursday: 6 PM - 9 PM Weeks 1-10 
 ## Lab Days: ##
