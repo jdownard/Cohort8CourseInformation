@@ -3,16 +3,21 @@
 
 
 ##Class Name:	Microsoft .NET Web Development Fundamentals ##
-## Class Days & Times	Monoday through Thursday: 6 PM - 9 PM Weeks 1-10 ## 
-## Lab Days : 8 AM to Noon Saturdays starting week 5 ## 
-## Class Location	CNM STEMulus Center
+## Class Days & Times:  ##  
+Monday through Thursday: 6 PM - 9 PM Weeks 1-10 
+## Lab Days: ##
+8 AM to Noon Saturdays starting week 5 ## 
+## Class Location ##
+CNM STEMulus Center
 20 1st Plaza Center NW
 Albuquerque, NM 87102 
 Enter through Sports and Wellness door proceed to left until you find the room
-##
-## Instructor: ##	Brian Jones 505-504-4825 BJones66@cnm.edu 
-## Teacher Aide: ## Eliot Ostling 505-301-7999 it.treugott@gmail.com
-## Slack: http://deepdivecoding.slack.com ([invite]( https://join.slack.com/t/deepdivecoding/shared_invite/enQtNDM5NTk0OTI5NzgwLTU2M2JmNTczMDY3NjY2OWQwNWUyNjZiODg3OTE1NDY2YjllN2JlZTgwMjViNTk1OTdkNzY3NWFiMTYzMGU3MTA)) ##
+## Instructor: ##	
+Brian Jones 505-504-4825 BJones66@cnm.edu 
+## Teacher Aide: ## 
+Eliot Ostling 505-301-7999 it.treugott@gmail.com
+## Slack: ## 
+http://deepdivecoding.slack.com ([invite]( https://join.slack.com/t/deepdivecoding/shared_invite/enQtNDM5NTk0OTI5NzgwLTU2M2JmNTczMDY3NjY2OWQwNWUyNjZiODg3OTE1NDY2YjllN2JlZTgwMjViNTk1OTdkNzY3NWFiMTYzMGU3MTA)) ##
 	
 ## Course Description ##
 In this bootcamp, you will learn the fundamentals of web development with C# (pronounced C sharp) and Microsoft’s .NET Core Framework. The goal is get you familiar enough with the core-language and technical tools to work towards a Microsoft Technology Associate (MTA) Certification. Entry level .NET developers are in high demand in New Mexico. Participants who take this program will increase their skill set to work with companies who utilize these systems. There are three, primary coding deliverables:
@@ -30,6 +35,14 @@ Upon successful completion of the course, the participant will be able to:
 ## Hardware & Software Requirements ##
 One of the following operating systems:
 * Windows: Windows 8.1 or above
+* [Microsoft Visual Studio 2017 Community Edition](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
+* [Notepad++](https://notepad-plus-plus.org/download/v7.5.8.html)
+* [Postman](https://www.getpostman.com/apps)
+* [Raptor](https://raptor.martincarlisle.com/)
+* [Expresso](http://www.ultrapico.com/ExpressoDownload.htm)
+
+## Class Etiqutte ##
+Every person in the class has the same requirements. It is very important to recognize that some might be slower or faster than others. It is critical that you keep up with the work that is happening on the screen. Typing the code into your IDE has to be done with care and at a reasonable pace. When you are behind the pace of the class the entore class slows down. There are many different strategies to keep up with the pace of class. The one that appears to be the most beneficial is to watch while the presenter types, listen while the presenter explains what was typed and then work on your version. An inability to maintain the classroom speed will be noted by intstructors and attempts will be made to assist. If the pace of the class continues to be negatively affected further discusions with the instructor team and the ability to remain in class. 
 
 ## Ask Good Questions ##
 Asking questions is critical in software development. Software developers are constantly under stress and realize that being a good team player is sharing the burden. Because of this stress, well researched questions are vital. The strategy you are required to use is:
