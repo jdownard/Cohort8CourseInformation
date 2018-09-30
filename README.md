@@ -12,8 +12,8 @@ Albuquerque, NM 87102
 Enter through Sports and Wellness door proceed to left until you find the room
 ## Instructor: ##	
 Brian Jones 505-504-4825 BJones66@cnm.edu 
-## Teacher Aide: ## 
-Eliot Ostling 505-301-7999 it.treugott@gmail.com
+## Assistant Instructor: ## 
+Eliot Ostling 505-301-7999 eostling@cnm.edu
 ## Slack: ## 
 http://deepdivecoding.slack.com ([invite]( https://join.slack.com/t/deepdivecoding/shared_invite/enQtNDM5NTk0OTI5NzgwLTU2M2JmNTczMDY3NjY2OWQwNWUyNjZiODg3OTE1NDY2YjllN2JlZTgwMjViNTk1OTdkNzY3NWFiMTYzMGU3MTA)) ##
 	
@@ -40,10 +40,10 @@ One of the following operating systems:
 * [Expresso](http://www.ultrapico.com/ExpressoDownload.htm)
 
 ## Class Etiqutte ##
-Every person in the class has the same requirements. It is very important to recognize that some might be slower or faster than others. It is critical that you keep up with the work that is happening on the screen. Typing the code into your IDE has to be done with care and at a reasonable pace. When you are behind the pace of the class the entore class slows down. There are many different strategies to keep up with the pace of class. The one that appears to be the most beneficial is to watch while the presenter types, listen while the presenter explains what was typed and then work on your version. An inability to maintain the classroom speed will be noted by intstructors and attempts will be made to assist. If the pace of the class continues to be negatively affected further discusions with the instructor team and the ability to remain in class. 
+Every person in the class has the same requirements. It is very important to recognize that some might be slower or faster than others. It is critical that you keep up with the work that is happening on the screen. Typing the code into your IDE has to be done with care and at a reasonable pace. When you are behind the pace of the class the entire class slows down. There are many different strategies to keep up with the pace of class. The one that appears to be the most beneficial is to watch while the presenter types, listen while the presenter explains what was typed and then work on your version. An inability to maintain the classroom speed will be noted by intstructors and attempts will be made to assist. If the pace of the class continues to be negatively affected further discusions with the instructor team and student will be made.
 
 ## Ask Good Questions ##
-Asking questions is critical in software development. Software developers are constantly under stress and realize that being a good team player is sharing the burden. Because of this stress, well researched questions are vital. The strategy you are required to use is:
+Asking questions is critical in software development. Software developers are constantly under stress and realize that being a good team player is sharing the burden. Because of this stress, we will research questions that are vital. The strategy you are required to use is:
 1. Read the documentation, code examples, Google searches, etc for at least 20 minutes.
 2. Ask your peers.
 3. Ask your instructors.
@@ -63,5 +63,5 @@ The class will be evaluated in three categories:
 3. Assessments: 20%
 	1. Assigned Tasks through Classroom
 		1. The number of assigned tasks can vary based on the class. The tasks will be assigned through Slack and delivered throug the classroom
-		2. Failure to complete 3 tasks on time and quality is basis for removal from the class. It is important to do the assigned work so that when you are in class you have performed the tasks successfully that we are building on in class. 
+		2. Failure to complete 3 tasks on time and or with poor code quality is basis for removal from the class. It is important to do the assigned work so that when you are in class you have performed the tasks successfully that we are building on in class. 
 	2. Complete all the assessments at [Microsoft Virtual Academy - Software Development Fundamentals](https://mva.microsoft.com/en-us/training-courses/software-development-fundamentals-8248?l=Ch3UiAY6C_7905190311)
