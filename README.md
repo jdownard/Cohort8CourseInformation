@@ -22,10 +22,10 @@ In this bootcamp, you will learn the fundamentals of web development with C# (pr
 
 ## Student Learning Outcomes ##
 Upon successful completion of the course, the participant will be able to:
-1.	Implement industry proven problem solving techniques
-2.	Learn C#, MVC, some HTML, some CSS, and some JavaScript to become a full stack web developer
-3.	Create a personal online resume to market yourself as a web developer
-4.	Build a web application as a team
+1. Implement industry proven problem solving techniques
+2. Learn C#, MVC, some HTML, some CSS, and some JavaScript to become a full stack web developer
+3. Create a personal online resume to market yourself as a web developer
+4. Build a web application as a team
 
 ## Hardware & Software Requirements ##
 One of the following operating systems:
@@ -33,23 +33,24 @@ One of the following operating systems:
 
 ## Ask Good Questions ##
 Asking questions is critical in software development. Software developers are constantly under stress and realize that being a good team player is sharing the burden. Because of this stress, well researched questions are vital. The strategy you are required to use is:
-1.	Read the documentation, code examples, Google searches, etc for at least 20 minutes.
-2.	Ask your peers.
-3.	Ask your instructors.
+1. Read the documentation, code examples, Google searches, etc for at least 20 minutes.
+2. Ask your peers.
+3. Ask your instructors.
+
 This process will engage you in the problem on a deep level and form good habits required in the software development world.
-Evaluation
+
+## Evaluation ##
 The class will be evaluated in three categories:
-1.	Capstone: 50%
-1.	Team project 
-2.	Must consume a public API
-3.	Must be a multiple page application
-2.	Personal Resume Site: 30%
-1.	Authentication implemented
-2.	Data Seeded
-3.	Single Page resume view
-4.	Appropriate style
-3.	Assessments: 20%
-1.	Assigned Tasks through Classroom
-1.  The number of assigned tasks can vary based on the class. The tasks will be assigned through Slack and delivered throught the classroom
-2.  Failure to complete 3 tasks on time and quality is basis for removal from the class. It is important to do the assigned work so that when you are in class you have performed the tasks successfully that we are building on in class. 
-2.	Complete all the assessments at Microsoft Virtual Academy - Software Development Fundamentals
+1. Capstone: 50% - Team project 
+	1. Must consume a public API
+	2. Must be a multiple page application
+2. Personal Resume Site: 30%
+	1. Authentication implemented
+	2. Data Seeded
+	3. Single Page resume view
+	4. Appropriate style
+3. Assessments: 20%
+	1. Assigned Tasks through Classroom
+		1. The number of assigned tasks can vary based on the class. The tasks will be assigned through Slack and delivered throug the classroom
+		2. Failure to complete 3 tasks on time and quality is basis for removal from the class. It is important to do the assigned work so that when you are in class you have performed the tasks successfully that we are building on in class. 
+	2. Complete all the assessments at [Microsoft Virtual Academy - Software Development Fundamentals](https://mva.microsoft.com/en-us/training-courses/software-development-fundamentals-8248?l=Ch3UiAY6C_7905190311)
