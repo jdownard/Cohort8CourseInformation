@@ -55,6 +55,7 @@ The class will be evaluated in three categories:
 1. Capstone: 50% - Team project 
 	1. Must consume a public API
 	2. Must be a multiple page application
+	3. Mastery of the topics 
 2. Personal Resume Site: 30%
 	1. Authentication implemented
 	2. Data Seeded
@@ -65,3 +66,8 @@ The class will be evaluated in three categories:
 		1. The number of assigned tasks can vary based on the class. The tasks will be assigned through Slack and delivered throug the classroom
 		2. Failure to complete 3 tasks on time and or with poor code quality is basis for removal from the class. It is important to do the assigned work so that when you are in class you have performed the tasks successfully that we are building on in class. 
 	2. Complete all the assessments at [Microsoft Virtual Academy - Software Development Fundamentals](https://mva.microsoft.com/en-us/training-courses/software-development-fundamentals-8248?l=Ch3UiAY6C_7905190311)
+
+## Course Mastery ##
+It is important that the student show mastery of the topics presented in the class on their individual/team projects with out reliance on the fellow students, teaching assistant or instructor. Mastery of the topic is demonstrated through successful completion of the task without assistance, if assistance is required being able to answer the questions being asked during the coaching and being able to apply the assistance to the other areas of the application as required. Mastery is not being able to copy and paste code that was given into multiple locations and hoping that the code works.
+
+It is up to the student to test the work that they turn in. If the code is not working, then it is the responsibility of the student to get assistance until it works. The instructor team is not to be used as a tester of the application. 
