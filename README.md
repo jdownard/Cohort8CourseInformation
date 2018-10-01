@@ -71,3 +71,12 @@ The class will be evaluated in three categories:
 It is important that the student show mastery of the topics presented in the class on their individual/team projects with out reliance on the fellow students, teaching assistant or instructor. Mastery of the topic is demonstrated through successful completion of the task without assistance, if assistance is required being able to answer the questions being asked during the coaching and being able to apply the assistance to the other areas of the application as required. Mastery is not being able to copy and paste code that was given into multiple locations and hoping that the code works.
 
 It is up to the student to test the work that they turn in. If the code is not working, then it is the responsibility of the student to get assistance until it works. The instructor team is not to be used as a tester of the application. 
+
+## To Do ##
+1. Locate and click on the create new file button.
+2. Name your file Acknowledgement.md
+3. Enter the following code into the file with your information in the placeholders (remove the [] from the text)
+[#] Acknowledgement [#]
+I {Your Name} acknowlegde that I received this document, understand the requirements of me in this class and will work with the instructor team to have a successful class.
+
+By commtting this file into my project on this date: {Date} I am electronically signing this document.
