@@ -52,11 +52,11 @@ This process will engage you in the problem on a deep level and form good habits
 
 ## Evaluation ##
 The class will be evaluated in three categories:
-1. Capstone: 50% - Team project 
+1. Capstone: 30% - Team project 
 	1. Must consume a public API
 	2. Must be a multiple page application
 	3. Mastery of the topics 
-2. Personal Resume Site: 30%
+2. Personal Resume Site: 50%
 	1. Authentication implemented
 	2. Data Seeded
 	3. Single Page resume view
@@ -79,4 +79,4 @@ It is up to the student to test the work that they turn in. If the code is not w
 [#] Acknowledgement [#]
 I {Your Name} acknowlegde that I received this document, understand the requirements of me in this class and will work with the instructor team to have a successful class.
 
-By commtting this file into my project on this date: {Date} I am electronically signing this document.
+By commtting this file into my project on this date: {Date} I am electronically signing and agreeing to this document.
